@@ -1,0 +1,29 @@
+source:
+  url: https://github.com/DrSopes/Dino-7-GF
+  original_url: null
+  kind: fork
+  why: GitHub fork of the upstream repository
+  licence: null
+  upstream_default_branch: main
+tapeouts:
+- org: tinytapeout
+  run: ttgf26a
+  slot: tt_um_dino7
+  project: 'Dino-7: 7-Segment Runner Game'
+  size: 1x1
+  kind: digital (Verilog)
+  commit: 022e1a0599c9aadea8625a28f9ac4b793d6354a3
+  commit_source: commit from the shuttle repo's projects/<name>/commit_id.json
+  tag: tinytapeout/ttgf26a/tt_um_dino7
+  branch: tapeout/tinytapeout/ttgf26a/tt_um_dino7
+  page: https://app.tinytapeout.com/shuttles/ttgf26a
+generated: '2026-10-17T23:31:01Z'
+tooling: https://github.com/wafer-space/wafer.space-bench
+index: https://wafer-space-bench.github.io
+branches:
+- about
+- tapeout/tinytapeout/ttgf26a/tt_um_dino7
+- upstream/GLextended
+- upstream/Logo-art
+- upstream/Logo-test-old
+- upstream/main
